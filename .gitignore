@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 模型权重文件 (太大，禁止上传)
+weights/*.pth
+
+# 本地数据
+raw_images/*
+clipped_pngs/*
+!raw_images/.gitkeep
+!clipped_pngs/.gitkeep
+
+# IDE 配置
+.ipynb_checkpoints/
+.vscode/
+.idea/
