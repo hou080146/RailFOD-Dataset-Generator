@@ -15,6 +15,9 @@
 - **自动裁剪**：保存时自动计算物体边界，剔除多余透明区域。
 
 ---
+<img width="1200" height="880" alt="image" src="https://github.com/user-attachments/assets/661c15ac-e90d-429b-90a6-9c9654b1c91b" />
+
+<img width="380" height="252" alt="image" src="https://github.com/user-attachments/assets/96284507-3586-4b5e-80df-802843f7e391" />
 
 ## 🚀 部署步骤
 
